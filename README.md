@@ -21,7 +21,7 @@ For more [Verification Tutorials](https://www.sinch.com/tutorials/?tags%5B%5D=ve
 ##Flash Call Verification
 
 <p>Now, let's start coding. Create a new project in your IDE and choose <b>VerificationActivity</b> as a name of your <b>LauncherActivity</b>.</p>
-<p>Download the Sinch Verification SDK at <a href="http://www.sinch.com/android-verification-sdk">Verification SDK</a> and add it to your project.</p> 
+<p>Download the Sinch Verification SDK at <a href="https://www.sinch.com/android-verification-sdk">Verification SDK</a> and add it to your project.</p> 
 <p>Sinch Flash Call Verification SDK requires a few permissions. Add the following to your <b>AndroidManifest</b> file:</p>
 
 ```objective-c
